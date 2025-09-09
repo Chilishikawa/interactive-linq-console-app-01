@@ -8,6 +8,8 @@
 - Query 4: Calculate the average salary
 - Query 5: Calculate the average age
 
+#
+
 ### A partir de una clase Person con 3 propiedades (nombre, edad y salario) que se ingresan en consola, se implementan 5 consultas LINQ para :
 
 - Consulta 1: Mostrar la lista completa de personas
@@ -15,6 +17,8 @@
 - Consulta 3: Ordenar por la primera letra del nombre
 - Consulta 4: Calcular el salario promedio
 - Consulta 5: Calcular la edad promedio
+
+# 
 
 This exercise is part of 'Hands-on Assignment 3 - LINQ' from the 'Advanced C# Programming in .NET Core' course by EDUCBA on Coursera.
 
